@@ -1,5 +1,10 @@
+# backend:
+#   name: git-gateway
+#   branch: master
+
 backend:
-  name: git-gateway
+  name: github
+  repo: itsamatterofflow/portfolio
   branch: master
 
 media_folder: "site/images"
