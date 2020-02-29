@@ -2,10 +2,10 @@
    name: git-gateway
    branch: master
 
-media_folder: "site/images/"
+media_folder: "site/images"
 public_folder: "/images"
 site_url: https://itsamatterofflow.com
-public_url: https://itsamatterofflow.com
+display_url: https://itsamatterofflow.com
 
 collections: 
   - name: "projects"
