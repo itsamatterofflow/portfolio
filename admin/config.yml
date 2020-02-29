@@ -3,7 +3,6 @@ backend:
   branch: master
 
 media_folder: "images"
-public_folder: "images"
 site_url: https://itsamatterofflow.com
 display_url: https://wwww.itsamatterofflow.com
 logo_url: "images/1024x1024.png"
