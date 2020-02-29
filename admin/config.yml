@@ -2,11 +2,12 @@ backend:
   name: git-gateway
   branch: master
 
-media_folder: "site/images"
+media_folder: "images"
 public_folder: "images"
 site_url: https://wwww.itsamatterofflow.com
 display_url: https://wwww.itsamatterofflow.com
 logo_url: https://wwww.itsamatterofflow.com/images/1024x1024.png
+publish_mode: editorial_workflow
 
 collections: 
   - name: "projects"
