@@ -4,14 +4,12 @@ backend:
 
 media_folder: "site/images"
 public_folder: "/images"
-publish_mode: editorial_workflow
 site_url: https://itsamatterofflow.com
 
 collections: 
   - name: "projects"
     label: "Projects"
     folder: "projects"
-    
     create: true
     slug: "{{slug}}"
     fields:
