@@ -5,6 +5,7 @@ backend:
 media_folder: "site/images"
 public_folder: "/images"
 site_url: https://itsamatterofflow.com
+public_url: https://itsamatterofflow.com
 
 collections: 
   - name: "projects"
